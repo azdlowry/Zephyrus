@@ -1,6 +1,8 @@
 require('./lib/')
-  .start({
-    email: process.argv[2],
-    password: process.argv[3],
-    devId: process.argv[4]
-  });
+  .start();
+  
+//  .start({
+//    email: process.argv[2],
+//    password: process.argv[3],
+//    devId: process.argv[4]
+//  });

@@ -15,11 +15,13 @@
     "ejs": "^2.5.5",
     "express": "^4.14.0",
     "express-session": "^1.14.2",
+    "express-winston": "^2.1.2",
     "nedb": "^1.8.0",
     "oauth2orize": "^1.7.0",
     "passport": "^0.3.2",
     "passport-http": "^0.3.0",
     "passport-http-bearer": "^1.0.1",
-    "request": "^2.67.0"
+    "request": "^2.67.0",
+    "winston": "^2.3.0"
   }
 }

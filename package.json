@@ -18,7 +18,7 @@
     "express-winston": "^2.1.2",
     "nedb": "^1.8.0",
     "oauth2orize": "^1.7.0",
-    "passport": "^0.3.2",
+    "passport": "^0.4.0",
     "passport-http": "^0.3.0",
     "passport-http-bearer": "^1.0.1",
     "request": "^2.67.0",

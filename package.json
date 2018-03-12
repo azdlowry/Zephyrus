@@ -21,7 +21,7 @@
     "passport": "^0.4.0",
     "passport-http": "^0.3.0",
     "passport-http-bearer": "^1.0.1",
-    "request": "^2.67.0",
+    "request": "^2.85.0",
     "winston": "^2.3.0"
   }
 }
